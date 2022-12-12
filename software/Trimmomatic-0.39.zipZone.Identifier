@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/usadellab/Trimmomatic/releases/tag/v0.39
+HostUrl=https://objects.githubusercontent.com/github-production-repository-file-5c1aeb/303432470/5854859?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221210T074541Z&X-Amz-Expires=300&X-Amz-Signature=12c5fd813a117d668d1617086341e4c3142f677cec1efbe58978f55f6849e2d8&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=303432470&response-content-disposition=attachment%3Bfilename%3DTrimmomatic-0.39.zip&response-content-type=application%2Fzip

@@ -1,0 +1,1 @@
+prokka ./assembly_output/contigs.fasta --outdir annotation --force

@@ -1,0 +1,4 @@
+- "number": !!int "1"
+  "single reads":
+  - "/home/andre/rep/bioformatic/assignment_3/SRR15192830_trimmed.fastq.gz"
+  "type": "single"
